@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Monoton', cursive;
-    background-color: #000000;
+    background-color: #ffffff;
 
 }
 
@@ -15,7 +15,7 @@
 }
 
 .title {
-    color: white;
+    color: rgb(255, 0, 0);
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
